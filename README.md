@@ -1,4 +1,4 @@
-These pythons files were used for simulation data processing, optimization and visualization for results published in ** Jamdade, S., Cai, X., Allen-Dumas, M.R., and Sholl, D.S. (2024). Incorporating Diurnal
+These notebooks were used for simulation data processing, optimization and visualization for results published in ** Jamdade, S., Cai, X., Allen-Dumas, M.R., and Sholl, D.S. (2024). Incorporating Diurnal
 and Meter-Scale Variations of Ambient CO2 Concentrations in Development of Direct Air
 Capture Technologies. ACS Sustainable Chemistry & Engineering. **
 
